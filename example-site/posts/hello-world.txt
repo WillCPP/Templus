@@ -1,0 +1,12 @@
+:title:
+Example Post
+:title:
+
+:byline:
+Example byline
+:byline:
+
+:content:
+Example content.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lacinia pretium nulla, ut fermentum risus porttitor sit amet. Nam in nibh augue. Fusce posuere hendrerit magna et cursus. Sed efficitur a nisi non auctor. Donec mattis neque a augue aliquet, eu malesuada tellus dignissim. In et metus nibh.
+:content:
+

@@ -1,0 +1,11 @@
+:template:
+custom/template.html
+
+:output:
+index.html
+
+:manifest:
+manifest.txt
+
+:tags:
+custom/tags.txt

@@ -1,0 +1,15 @@
+:title:
+<h1>
+</h1>
+
+:byline:
+<h2>
+</h2>
+
+:content:
+<p>
+</p>
+
+:post:
+<div>
+</div>

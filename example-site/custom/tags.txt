@@ -1,0 +1,15 @@
+:title:
+<h1 style="color: blue;">
+</h1>
+
+:byline:
+<h2 style="color: red;">
+</h2>
+
+:content:
+<p style="color: black;">
+</p>
+
+:post:
+<div style="text-align: center;">
+</div>

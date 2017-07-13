@@ -1,0 +1,3 @@
+posts/hello-world.txt
+posts/hello-world-2.txt
+posts/third-post.txt
